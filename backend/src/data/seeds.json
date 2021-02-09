@@ -1,0 +1,54 @@
+{
+    "currencies": [
+        {
+            "description": "bitcoin",
+            "symbol": "BTC"
+        },
+        {
+            "description": "etherum",
+            "symbol": "ETH"
+        },
+        {
+            "description": "cardano",
+            "symbol": "ADA"
+        }
+    ],
+    "rates": [
+        {
+            "id_currency": 1,
+            "value": 11934.231233
+        },
+        {
+            "id_currency": 2,
+            "value": 12934.231233
+        },
+        {
+            "id_currency": 3,
+            "value": 13934.231233
+        },
+        {
+            "id_currency": 1,
+            "value": 14934.231233
+        },
+        {
+            "id_currency": 2,
+            "value": 11934.231233
+        },
+        {
+            "id_currency": 3,
+            "value": 10934.231233
+        },
+        {
+            "id_currency": 1,
+            "value": 15934.231233
+        },
+        {
+            "id_currency": 2,
+            "value": 22934.231233
+        },
+        {
+            "id_currency": 3,
+            "value": 33934.231233
+        }
+    ]
+}

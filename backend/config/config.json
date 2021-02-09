@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Ami16_Azu04%",
+    "database": "steplix",
+    "host": "db",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Ami16_Azu04%",
+    "database": "steplix",
+    "host": "db",
+    "port": "3306",
+    "dialect": "mysql"
+  }
+}
